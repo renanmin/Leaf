@@ -1,5 +1,8 @@
 # Leaf
-
+```
+强依赖机器时钟，如果机器上时钟回拨，会导致发号重复或者服务会处于不可用状态。
+美团改版
+```
 > There are no two identical leaves in the world.
 >
 > ​               — Leibnitz
